@@ -1,0 +1,12 @@
+.app {
+    width: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: var(--font--rubik), serif;
+    font-weight: var(--font-weight--regular);
+    font-size: 1rem;
+}

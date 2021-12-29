@@ -13,7 +13,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'React Boilerplate',
+            title: 'Time Tracking Dashboard',
             template: path.resolve(__dirname, 'src', 'index.html')
         })
     ],

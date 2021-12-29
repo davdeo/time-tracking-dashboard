@@ -1,9 +1,14 @@
 :root {
-    --color-blue--very-dark: hsl(230 35% 7%);
-    --color-blue--very-dark--transparent: hsl(230 35% 7% / 10%);
-    --color-blue--very-light: hsl(231 77% 90%);
-    --color-blue--very-light--transparent: hsl(231 77% 90% / 10%);
+    --color-primary--purple--light: hsl(246 80% 60%);
+    --color-primary--orange--light: hsl(15 100% 70%);
+    --color-primary--blue--light: hsl(195 74% 62%);
+    --color-primary--red--light: hsl(348 100% 68%);
+    --color-primary--lime: hsl(145 58% 55%);
+    --color-primary--violet: hsl(264 64% 52%);
+    --color-primary--yellow--dark: hsl(43 84% 65%);
 
-    --color-white: hsl(0 0% 100%);
-    --color-white--transparent: hsl(0 0% 100% / 4%);
+    --color-neutral--blue--very-dark: hsl(226 43% 10%);
+    --color-neutral--blue--dark: hsl(235 46% 20%);
+    --color-neutral--blue--light: hsl(235 45% 61%);
+    --color-neutral--blue--very-light: hsl(236 100% 87%);
 }
